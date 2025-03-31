@@ -11,6 +11,6 @@ A simple yet elegant **digital clock** displaying the current time and date in r
 
 ## 🖥️ Live Demo
 
-Check out the live version of the digital clock [here](#https://palak-99.github.io/digital-clock/) 
+Check out the live version of the digital clock [here](https://palak-99.github.io/digital-clock/) 
 
 
